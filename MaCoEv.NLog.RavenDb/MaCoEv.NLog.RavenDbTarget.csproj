@@ -12,13 +12,13 @@ Inspired by: https://github.com/mswietlicki/NLog.RavenDb</Description>
     <Authors>PWNTech</Authors>
     <PackageIconUrl>https://macoev.com/macoev_logo_square.png</PackageIconUrl>
     <RepositoryType>GitHub</RepositoryType>
-    <PackageTags>NLog, database, logfiles, email, logging, log, tracing, archiving, eventlog, raven, ravendb</PackageTags>
+    <PackageTags>NLog, database, logfiles, email, logging, log, tracing, archiving, eventlog, raven, ravendb, netcore</PackageTags>
     <NeutralLanguage />
     <PackageLicenseUrl>https://raw.githubusercontent.com/MaCoEv/MaCoEv.NLog.RavenDbTarget/dev/MaCoEv.NLog.RavenDb/LICENSE</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
-    <AssemblyVersion>1.0.0.3</AssemblyVersion>
-    <FileVersion>1.0.0.3</FileVersion>
-    <Version>1.0.3</Version>
+    <AssemblyVersion>1.0.0.4</AssemblyVersion>
+    <FileVersion>1.0.0.4</FileVersion>
+    <Version>1.0.4</Version>
     <PackageReleaseNotes></PackageReleaseNotes>
     <RepositoryUrl>https://github.com/MaCoEv/MaCoEv.NLog.RavenDbTarget</RepositoryUrl>
   </PropertyGroup>
