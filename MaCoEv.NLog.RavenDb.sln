@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.15
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaCoEv.NLog.RavenDb", "MaCoEv.NLog.RavenDb\MaCoEv.NLog.RavenDb.csproj", "{A46AF5BA-7A40-47E6-A0E4-BFA7A776EF59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaCoEv.NLog.RavenDbTarget", "MaCoEv.NLog.RavenDb\MaCoEv.NLog.RavenDbTarget.csproj", "{A46AF5BA-7A40-47E6-A0E4-BFA7A776EF59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

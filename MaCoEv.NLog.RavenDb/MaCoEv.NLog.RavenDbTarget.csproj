@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+    <AssemblyName>MaCoEv.NLog.RavenDbTarget</AssemblyName>
+    <RootNamespace>MaCoEv.NLog.RavenDbTarget</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Description>This is NLog custom target, made with .NET Standard Library (1.6+), able to send logs to RavenDb.
+Inspired by: https://github.com/mswietlicki/NLog.RavenDb</Description>
+    <Copyright>MaCoEv - PWNTech (Alessio Fedi)</Copyright>
+    <Company>MaCoEv</Company>
+    <Authors>PWNTech</Authors>
+    <PackageIconUrl>https://macoev.com/macoev_logo_square.png</PackageIconUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>NLog, database, logfiles, email, logging, log, tracing, archiving, eventlog, raven, ravendb</PackageTags>
+    <NeutralLanguage />
+    <PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <Version>1.0.0</Version>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <RepositoryUrl></RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.4.1" />
+    <PackageReference Include="RavenDB.Client" Version="3.5.0" />
+  </ItemGroup>
+
+</Project>
