@@ -14,13 +14,13 @@ Inspired by: https://github.com/mswietlicki/NLog.RavenDb</Description>
     <RepositoryType>GitHub</RepositoryType>
     <PackageTags>NLog, database, logfiles, email, logging, log, tracing, archiving, eventlog, raven, ravendb</PackageTags>
     <NeutralLanguage />
-    <PackageLicenseUrl>http://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageLicenseUrl>https://raw.githubusercontent.com/MaCoEv/MaCoEv.NLog.RavenDbTarget/dev/MaCoEv.NLog.RavenDb/LICENSE</PackageLicenseUrl>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
     <FileVersion>1.0.0.0</FileVersion>
     <Version>1.0.0</Version>
     <PackageReleaseNotes></PackageReleaseNotes>
-    <RepositoryUrl></RepositoryUrl>
+    <RepositoryUrl>https://github.com/MaCoEv/MaCoEv.NLog.RavenDbTarget</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
