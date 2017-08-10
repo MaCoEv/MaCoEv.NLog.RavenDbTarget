@@ -50,7 +50,14 @@ namespace NLog.Targets
 
 		protected override void CloseTarget()
 		{
-			Store.Dispose();
+			try
+			{
+				Store?.Dispose();
+			}
+			finally
+			{
+				Store = null;
+			}
 			base.CloseTarget();
 		}
 
